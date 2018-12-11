@@ -100,3 +100,5 @@ arq.close()
 
 print("Gerado...Abrindo o Msfconsole\n")
 os.system("masfconsole.bat")
+
+#By C4L4NG0_M4T4D0R
