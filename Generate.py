@@ -2,25 +2,66 @@
 
 print('''
  
-      .:okOOOkdc'           'cdkOOOko:.
-    .xOOOOOOOOOOOOc       cOOOOOOOOOOOOx.
-   :OOOOOOOOOOOOOOOk,   ,kOOOOOOOOOOOOOOO:
-  'OOOOOOOOOkkkkOOOOO: :OOOOOOOOOOOOOOOOOO'
-  oOOOOOOOO.MMMM.oOOOOoOOOOl.MMMM,OOOOOOOOo
-  dOOOOOOOO.MMMMMM.cOOOOOc.MMMMMM,OOOOOOOOx
-  lOOOOOOOO.MMMMMMMMM;d;MMMMMMMMM,OOOOOOOOl
-  .OOOOOOOO.MMM.;MMMMMMMMMMM;MMMM,OOOOOOOO.
-   cOOOOOOO.MMM.OOc.MMMMM'oOO.MMM,OOOOOOOc
-    oOOOOOO.MMM.OOOO.MMM:OOOO.MMM,OOOOOOo
-     lOOOOO.MMM.OOOO.MMM:OOOO.MMM,OOOOOl
-      ;OOOO'MMM.OOOO.MMM:OOOO.MMM;OOOO;
-       .dOOo'WM.OOOOocccxOOOO.MX'xOOd.
-         ,kOl'M.OOOOOOOOOOOOO.M'dOk,
-           :kk;.OOOOOOOOOOOOO.;Ok:
-             ;kOOOOOOOOOOOOOOOk:
-               ,xOOOOOOOOOOOx,
-                 .lOOOOOOOl.
-                    ,dOd,
+                      ,     ,  ._  ,
+                 _.MMmm.mMm_Mm.MMm_:mMMmmm.._  .
+            _ .-mmMMMMMMMMMMMMm:MMm:MMMMMMMMMm._
+             `-.mm.MMMMMMM:MMMMMMMmmMMMMMMMMMmm._
+          _.mMMMMMmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"~.
+           .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm._
+          _.MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm._
+       ..mMMMMMMMMMMMMMMMMF"""`:MMMMMMMMMMMMMMMMMMMMmmm.
+      _.mmMMMMMMMMMMMMM'    /^  )MMMMMMMMMMMMMMMMMMMMm.
+       _.MMMMMMMMMMMM/       JMMMMMMMMMMMMMMMMMMMMMMMMm_
+   .mmMMMMMMMMMMMMME/       J,  MMMMMMMMMMMMMMMMMMMMMMMm,
+  _.-' _.mMMMMMMMMM/        |:  '::M:MMMMMMMMMMMMMMMM""`
+   _,MMMmMMMMMMMMMJ         |_   `:MmmMMMMMMMMMMMMMMMmm.
+     _.-'MMMMMMMMF         /M.    .MMmMMMMMMMMMMMMMMMMMM.
+    .mmMMMMMMMMMMJ        /MMn:.   `MMMMMMMMMMMMMMMMMMMm.
+       .MMMMMMMMJ        /M'        `:::'MMMMMMMMMMMMMMM:
+    ,MMMmMMMMMMF         |:   _.._    '   MMMMMMMMMMMMmm.
+   ,ME:MMMMMMMM|         J               7_MMMMMMMMM:Mm_
+   !M:MmmMMMMMM|        /     _____     _JMMMMMMMMMm:MMm.
+   '':mMMMMMMMMJ        |    `"==="`    /dMMMMMMMMMMM:'Mm.
+    ':MMM:MMMMF        J\              /MMMMMM:MMMMMMm: `
+   .M:MMM:MMMM|        |E`.   .   .  ,'MMMMMMM:MMMMMMMm
+     .Mm:mMMMMJ        |M| `.      .' |MMMMMMm:.MMMMM.
+    .Mm:mMMMM/         |M|   `----':: |MMMMMMMmm`MMMMMm.
+      !:mMMM/          /M|      ::::. |MMMMMMMMMMM``mMm.
+        !MMJ          |MM|      .:::. |MMMMMMMMMMMMM.._
+        MMF           /M/       ::::'  \MMMMMMMMMMMMMMm,
+       .mM|          /MMm.       '     .`".MMMMMMMMMMMMm.
+        !!J         / b:.:..     ,  ,   .. M.".MMMMMMMMm.
+         F         .:`.m,  ..           ..`M.   `"".MMMmm.
+         |          .`  b.   ..         ..  `M        `.M!
+         |         .:   `b    ..        ..   M           \
+         `       ..:     M,   ..         ..  M.           |
+          |     :::,     `M,   ..        ..  `M           \
+          |      .'       `M    ..       ..   M.           |
+          `                M.    ..      ..   `M    ,      \
+           |               .M.    ..     ..    M   Y        |
+           `              .dMb.    ..   ..     M.  |        |
+            \            dMMMMMMb.  ':. ::     M.  |        \
+             Y        .dMMMMMMMMMMMb.::_::___.dMMb |         |
+             |      .dMMMMMMMMMMMMMMMMM::MMMMMMMMMb/         |
+             :.....dMMMMMMMMMMMMMMMMMMM::MMMMMMMMMMM\        |
+              MMMMMMMMMMMMMMMMMMMMMMMMp""qMMMMMMMMMM \       `
+              `MMMMMMMMMMMMMMMMMMMMMMM:QD:MMMMMMMMMM  \       |
+               `MMMMMMMMMMMMMMMMMMMMMMb.:dMMMMMMMMMP  |       |
+                `MMMMMMMMMMMMMMMMMMM::::::::MMMMMMF   |       `
+                 MMMMMMMMMMMMMMMMMMMMMM.:MMMMMMMMM    |        `
+                 `MMMMMMMMMMMMMMMMMMMMM.:MMMMMMMMM    :         |
+                  MMMMMMMMMMMMMMMMMMMMM.:MMMMMMMMM     \        |
+                  `MMMMMMMMMMMMMMMMMMMM.:MMMMMMMMM      |       `
+                   MMMMMMMMMMMMMMMMMMMM.:MMMMMMMMM      `        .
+                   `MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM       |        |
+                    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM       |        |
+                    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM       |        |
+                   .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM       |        |
+                   dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM       `        |
+                 .dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM        .       |
+       dp       .dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM        |       |
+
+Em homenagem a meu anjo <3 <3 
                       .
  
  ''')
